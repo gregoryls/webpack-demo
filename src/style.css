@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('./test-font.ttf') ;
+    font-weight: 600;
+    font-style: italic;
+}
+
+
 .hello{
     color: red;
+    font-family: 'myFont';
     background: url('./companion-cube-full.png');
 }
