@@ -23,6 +23,7 @@ module.exports = {
     plugins: [
       new HtmlWebpackPlugin({
         title: 'Output management',
+        minify: false,
       }),
     ],
     module: {
