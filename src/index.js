@@ -42,7 +42,7 @@ function component() {
 
     console.log(Data);
     console.log(Notes);
-    console.log(2+4);
+    console.log(24+7);
 
 
     return element;
